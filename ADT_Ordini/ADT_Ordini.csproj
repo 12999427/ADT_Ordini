@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\ADT_PRZ_protected\ADT_PRZ_LinkedLists\ADT_PRZ_LinkedLists\ADT_PRZ_LinkedLists.csproj" />
+    <ProjectReference Include="..\..\..\..\Downloads\ADT_PRZ_protected\ADT_PRZ_Queue\ADT_PRZ_Queue\ADT_PRZ_Queue.csproj" />
+    <ProjectReference Include="..\..\..\..\Downloads\ADT_PRZ_protected\ADT_PRZ_Stack\ADT_PRZ_Stack\ADT_PRZ_Stack.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

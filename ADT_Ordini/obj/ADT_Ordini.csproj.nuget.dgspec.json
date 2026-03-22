@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sor-team/Documents/source/ADT_Ordini/ADT_Ordini/ADT_Ordini.csproj": {}
+  },
+  "projects": {
+    "/Users/sor-team/Documents/source/ADT_Ordini/ADT_Ordini/ADT_Ordini.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sor-team/Documents/source/ADT_Ordini/ADT_Ordini/ADT_Ordini.csproj",
+        "projectName": "ADT_Ordini",
+        "projectPath": "/Users/sor-team/Documents/source/ADT_Ordini/ADT_Ordini/ADT_Ordini.csproj",
+        "packagesPath": "/Users/sor-team/.nuget/packages/",
+        "outputPath": "/Users/sor-team/Documents/source/ADT_Ordini/ADT_Ordini/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sor-team/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists.csproj": {
+                "projectPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists.csproj"
+              },
+              "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Queue/ADT_PRZ_Queue/ADT_PRZ_Queue.csproj": {
+                "projectPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Queue/ADT_PRZ_Queue/ADT_PRZ_Queue.csproj"
+              },
+              "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Stack/ADT_PRZ_Stack/ADT_PRZ_Stack.csproj": {
+                "projectPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Stack/ADT_PRZ_Stack/ADT_PRZ_Stack.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists.csproj",
+        "projectName": "ADT_PRZ_LinkedLists",
+        "projectPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists.csproj",
+        "packagesPath": "/Users/sor-team/.nuget/packages/",
+        "outputPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_LinkedLists/ADT_PRZ_LinkedLists/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sor-team/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Queue/ADT_PRZ_Queue/ADT_PRZ_Queue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Queue/ADT_PRZ_Queue/ADT_PRZ_Queue.csproj",
+        "projectName": "ADT_PRZ_Queue",
+        "projectPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Queue/ADT_PRZ_Queue/ADT_PRZ_Queue.csproj",
+        "packagesPath": "/Users/sor-team/.nuget/packages/",
+        "outputPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Queue/ADT_PRZ_Queue/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sor-team/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Stack/ADT_PRZ_Stack/ADT_PRZ_Stack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Stack/ADT_PRZ_Stack/ADT_PRZ_Stack.csproj",
+        "projectName": "ADT_PRZ_Stack",
+        "projectPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Stack/ADT_PRZ_Stack/ADT_PRZ_Stack.csproj",
+        "packagesPath": "/Users/sor-team/.nuget/packages/",
+        "outputPath": "/Users/sor-team/Downloads/ADT_PRZ_protected/ADT_PRZ_Stack/ADT_PRZ_Stack/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sor-team/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
